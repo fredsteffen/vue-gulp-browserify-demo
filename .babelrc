@@ -1,7 +1,3 @@
 {
-    /* 
-        Sets Babel to convert down to javascript that browsers can understand
-        You can try setting this in the Gulp tasks that transpiles your code, but I think I had issues. Easy enough to have this file.
-    */
     "presets":["es2015"]
 }
