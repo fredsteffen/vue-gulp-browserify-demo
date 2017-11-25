@@ -1,0 +1,37 @@
+{
+   "messages": {
+      "en": {
+         "title": "Vue Gulp App!",
+         "label": {
+            "language": "Language"
+         },
+         "text":{
+            "p1": "This app was created to show that you CAN build Vue using single file components without giving up all control of your build process.",
+            "p2": "This uses Gulp, Browserify, Vueify, Babelify, Karma, Jasmine and some other components.",
+            "p3": "TODO: Show localization in app."
+         }
+      },
+      "es": {
+         "title": "Gulp App Vue!",
+         "label": {
+            "language": "Idioma"
+         },
+         "text":{
+            "p1": "Esta aplicación fue creada para mostrar que puedes construir Vue usando componentes de un solo archivo sin renunciar a todo el control de tu proceso de compilación.",
+            "p2": "Esto usa Gulp, Browserify, Vueify, Babelify, Karma, Jasmine y algunos otros componentes.",
+            "p3": "TODO: muestra la localización en la aplicación."
+         }
+      },
+      "jp": {
+         "title": "Gulp Appビュー！",
+         "label": {
+            "language": "言語"
+         },
+         "text":{
+            "p1": "このアプリケーションは、ビルドプロセスのすべての制御を放棄することなく、単一のファイルコンポーネントを使用してVueを構築できることを示すために作成されました。",
+            "p2": "これはGulp、Browserify、Vueify、Babelify、Karma、Jasmineなどのコンポーネントを使用します",
+            "p3": "TODO：アプリでローカリゼーションを表示します。"
+         }
+      }
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "messages":{
+      "en":{
+         "quote1": {
+            "quote": "If you cannot do great things, do small things in a great way.",
+            "author": "Napoleon Hill"
+         },
+         "quote2": {
+            "quote": "There is nothing on this earth more to be prized than true friendship.",
+            "author": "Thomas Aquinas"
+         },
+         "quote3": {
+            "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+            "author": "Samuel Beckett"
+         }
+      },
+      "es":{
+         "quote1": {
+            "quote": "Si no puedes hacer grandes cosas, haz pequeñas cosas de una manera excelente.",
+            "author": "Napoleon Hill"
+         },
+         "quote2": {
+            "quote": "No hay nada en esta tierra más para ser apreciado que la verdadera amistad.",
+            "author": "Thomas Aquinas"
+         },
+         "quote3": {
+            "quote": "Alguna vez ha tratado. Alguna vez falló No importa. Inténtalo de nuevo. Fallar nuevamente. Fracasa mejor.",
+            "author": "Samuel Beckett"
+         }
+      },
+      "jp":{
+         "quote1": {
+            "quote": "あなたが偉大なことをすることができないなら、素晴らしいことに小さなことをしてください。",
+            "author": "Napoleon Hill"
+         },
+         "quote2": {
+            "quote": "この地球上には真の友情よりも尊敬すべきことは何もありません。",
+            "author": "Thomas Aquinas"
+         },
+         "quote3": {
+            "quote": "した事がある。 これまでに失敗しました。 どんなに。 再試行する。 もう一度失敗してください。 より良い失敗。",
+            "author": "Samuel Beckett"
+         }
+      }
+   }
+}
